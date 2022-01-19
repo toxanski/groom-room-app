@@ -5,7 +5,6 @@ import router from './router/router';
 
 const app = createApp(App);
 
-console.log(components)
 components.forEach(component => {
     app.component(component.name, component);
 })
