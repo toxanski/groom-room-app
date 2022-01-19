@@ -1,19 +1,13 @@
-# groom-room
-
-## Project setup
-```
-npm install
-```
+Grooming Application
 
 ### Compiles and hot-reloads for development
+### (Режим разработки)
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+### (Сборка проекта)
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
