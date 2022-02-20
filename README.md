@@ -4,8 +4,6 @@
 ##### Аутентификация пользователя по токену:
 ```
     http://groom-room/yii-app/web/users
-    ( к примеру токен админа: 
-    в Authorization Basic gfh241jfmaw14248d124fkmdasd )
 ```
 
 ##### Регистрация 
